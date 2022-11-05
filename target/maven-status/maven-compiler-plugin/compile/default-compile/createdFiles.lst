@@ -1,0 +1,5 @@
+Models\MonHoc.class
+Models\LopHoc.class
+Models\Diem.class
+Models\SinhVien.class
+HibernateConfig\HibernateUtil.class
